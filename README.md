@@ -30,4 +30,4 @@ preprocessing.ipynb
 Startrack_data.csv (teamname – название вашей команды)
 все значения внутри данных только численного типа 
 Отсутсвуют полные дубликаты объявлений
-Дополнили preprocessing.ipynb  (коментарии со 2 релиза во 2  ipnby релизе)
+Дополнили preprocessing.ipynb  (коментарии со 2 релиза в  2 preprossing.ipnby)
